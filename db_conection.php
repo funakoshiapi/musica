@@ -1,9 +1,9 @@
 <?php
 // Configurações do banco de dados
-$host = 'localhost';
-$dbname = 'blog';
+$host = 'mysql.railway.internal';
+$dbname = 'railway';
 $username = 'root';
-$password = '';
+$password = 'KeKbyGtqoyjHqTbeenQJeDfVTSTTLflc';
 
 // Conexão com o banco de dados usando PDO
 try {
