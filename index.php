@@ -10,7 +10,7 @@
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 
-    <link rel="stylesheet" href="./css/index.css">
+    <link rel="stylesheet" href="./css/flexbox.css">
     <script src="./js/menu.js" defer></script>
     <script src="./js/search.js" defer></script>
     <script src="./js/scripts.js" defer></script>
